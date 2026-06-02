@@ -1,0 +1,7 @@
+feedparser
+beautifulsoup4
+requests
+python-dotenv
+groq
+sqlalchemy
+apscheduler
